@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @anoopv-technobeetle
-- 👀 I’m interested in languages like Python, Flutter, Golang etc and other areas like Project management, CI/CD, Infrastructure development & management etc.
-- 🌱 I’m currently learning Golang
+
 
 
 <!---
